@@ -1,6 +1,6 @@
 # agent.ai Python Library
 
-[![PyPI version](https://badge.fury.io/py/agent-dot-ai.svg)](https://badge.fury.io/py/agent-dot-ai)
+[![PyPI version](https://badge.fury.io/py/agentdotai.svg)](https://badge.fury.io/py/agentdotai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple and modern Python library for interacting with the [Agent.ai Actions API](https://agent.ai/actions).
