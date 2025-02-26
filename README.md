@@ -8,7 +8,7 @@ A simple and modern Python library for interacting with the [Agent.ai Actions AP
 ## Installation
 
 ```bash
-pip install agent-dot-ai 
+pip install agentai 
 ```
 
 ## Example Usage
