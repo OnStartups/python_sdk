@@ -1,6 +1,6 @@
 # agent.ai Python Library
 
-[![PyPI version](https://badge.fury.io/py/agentdotai.svg)](https://badge.fury.io/py/agentdotai)
+[![PyPI version](https://badge.fury.io/py/agentai.svg)](https://badge.fury.io/py/agentai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple and modern Python library for interacting with the [Agent.ai Actions API](https://agent.ai/actions).
@@ -18,11 +18,11 @@ Before you can start using the library, you'll need to sign up for an account at
 Here's an example of using the library to run an action that will fetch web text:
 
 ```python
-from agentdotai import AgentDotAiClient
+from agentai import AgentAiClient
 
 # Replace with your actual Bearer token
 bearer_token = "YOUR_BEARER_TOKEN_HERE"
-client = AgentDotAiClient(bearer_token)
+client = AgentAiClient(bearer_token)
 
 # Example: Grab web text
 web_text_response = client.action(
@@ -75,8 +75,6 @@ Check the status code to determine if the API call was successful. If not, exami
 
 ## Contributing
 
-[Describe how others can contribute to your library - optional, but good practice]
-For example:
 Contributions are welcome! Please feel free to submit pull requests or open issues for feature requests or bug reports.
 
 ## License
